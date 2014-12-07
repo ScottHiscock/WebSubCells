@@ -9,9 +9,4 @@ namespace WebSubCells.Models
         public int SubCellHierarchyID { get; set; }
         public string Name { get; set; }
     }
-
-    public class SubCellCodeDBContext : DbContext
-    {
-        public DbSet<SubCellCode> SubCellCode { get; set; }
-    }
 }

@@ -11,9 +11,4 @@ namespace WebSubCells.Models
         public string Type { get; set; }
         public int Order { get; set; }
     }
-
-    public class SubCellHierarchyDBContext : DbContext
-    {
-        public DbSet<SubCellHierarchy> SubCellHierarchy { get; set; }
-    }
 }

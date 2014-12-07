@@ -5,10 +5,7 @@ c:\users\lukas\documents\visual studio 2010\Projects\WebSubCells\WebSubCells\bin
 c:\users\lukas\documents\visual studio 2010\Projects\WebSubCells\WebSubCells\bin\Microsoft.Web.Infrastructure.dll
 c:\users\lukas\documents\visual studio 2010\Projects\WebSubCells\WebSubCells\bin\Newtonsoft.Json.dll
 c:\users\lukas\documents\visual studio 2010\Projects\WebSubCells\WebSubCells\bin\System.Net.Http.dll
-c:\users\lukas\documents\visual studio 2010\Projects\WebSubCells\WebSubCells\bin\System.Net.Http.Formatting.dll
 c:\users\lukas\documents\visual studio 2010\Projects\WebSubCells\WebSubCells\bin\System.Net.Http.WebRequest.dll
-c:\users\lukas\documents\visual studio 2010\Projects\WebSubCells\WebSubCells\bin\System.Web.Http.dll
-c:\users\lukas\documents\visual studio 2010\Projects\WebSubCells\WebSubCells\bin\System.Web.Http.WebHost.dll
 c:\users\lukas\documents\visual studio 2010\Projects\WebSubCells\WebSubCells\bin\System.Web.Mvc.dll
 c:\users\lukas\documents\visual studio 2010\Projects\WebSubCells\WebSubCells\bin\System.Web.Optimization.dll
 c:\users\lukas\documents\visual studio 2010\Projects\WebSubCells\WebSubCells\bin\System.Web.Providers.dll
@@ -20,10 +17,7 @@ c:\users\lukas\documents\visual studio 2010\Projects\WebSubCells\WebSubCells\bin
 c:\users\lukas\documents\visual studio 2010\Projects\WebSubCells\WebSubCells\bin\EntityFramework.xml
 c:\users\lukas\documents\visual studio 2010\Projects\WebSubCells\WebSubCells\bin\Newtonsoft.Json.xml
 c:\users\lukas\documents\visual studio 2010\Projects\WebSubCells\WebSubCells\bin\System.Net.Http.xml
-c:\users\lukas\documents\visual studio 2010\Projects\WebSubCells\WebSubCells\bin\System.Net.Http.Formatting.xml
 c:\users\lukas\documents\visual studio 2010\Projects\WebSubCells\WebSubCells\bin\System.Net.Http.WebRequest.xml
-c:\users\lukas\documents\visual studio 2010\Projects\WebSubCells\WebSubCells\bin\System.Web.Http.xml
-c:\users\lukas\documents\visual studio 2010\Projects\WebSubCells\WebSubCells\bin\System.Web.Http.WebHost.xml
 c:\users\lukas\documents\visual studio 2010\Projects\WebSubCells\WebSubCells\bin\System.Web.Mvc.xml
 c:\users\lukas\documents\visual studio 2010\Projects\WebSubCells\WebSubCells\bin\System.Web.Razor.xml
 c:\users\lukas\documents\visual studio 2010\Projects\WebSubCells\WebSubCells\bin\System.Web.WebPages.xml

@@ -1,0 +1,20 @@
+﻿@model IEnumerable<WebSubCells.Models.SubCellCode>
+
+@{
+    ViewBag.Title = "Page1";
+}
+
+<h2>Page1</h2>
+
+<table>
+<tr>
+    <th>Codes</th>
+</tr>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+        </tr>
+}
+</table>

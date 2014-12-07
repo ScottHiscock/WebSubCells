@@ -126,6 +126,7 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Models\SubCellsDB.cs" />
     <Compile Include="Models\SubCellCode.cs" />
     <Compile Include="Models\SubCellHierarchy.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -298,6 +299,7 @@
     <None Include="Content\jquery-treeview\demo\source.php" />
     <None Include="Content\jquery-treeview\demo\source.phps" />
     <None Include="Content\jquery-treeview\readme.md" />
+    <Content Include="Views\Home\Page1.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
